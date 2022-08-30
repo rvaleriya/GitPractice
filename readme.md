@@ -1,2 +1,8 @@
 Hello!
-Classes are great :) Wish I could have more. We are acreating conflict now.
+
+Classes are great :) Wish I could have more. 
+
+
+
+GitHub is cool
+
