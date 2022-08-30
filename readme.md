@@ -1,1 +1,2 @@
-Hello
+Hello!
+Classes are great :)
