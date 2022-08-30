@@ -1,2 +1,6 @@
 Hello!
-Classes are great :) Wish I could have more.
+Classes are great :) 
+
+
+
+GitHub is cool
